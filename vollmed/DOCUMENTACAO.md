@@ -3,8 +3,11 @@
 2. `npx expo start` -> Inicia o servidor de desenvolvimento.
 3. `npm run reset-project` -> Limpa os arquivos de apresentação.
 4. `npx expo install react-dom react-native-web` -> Simula o app no navegador.
+5. ``npx expo install expo router`` - rotas 
 
 src
  -- App
  -- assets
  -- App.js
+
+ 
