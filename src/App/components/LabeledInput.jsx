@@ -1,4 +1,5 @@
 import { View, Text, TextInput, StyleSheet } from "react-native";
+import colors from "../theme/colors"; // Importa o objeto de cores do arquivo colors.js
 
 const INPUT_BG = "#f5f5f5";
 const INPUT_BORDER = "#E8E8E8";
